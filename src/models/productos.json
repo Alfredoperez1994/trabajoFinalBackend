@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "comida perro",
+      "description": "los mas ricos para tu perro",
+      "price": 300,
+      "img": "Sin imagen",
+      "code": "abc123",
+      "stock": 300
+    },
+    {
+      "id": 2,
+      "title": "comida gato",
+      "description": "la mas rica para tu gato",
+      "price": 400,
+      "img": "sin imagen",
+      "code": "abc124",
+      "stock": 200
+    },
+    {
+      "id": 3,
+      "title": "pelota",
+      "description": "no se rompe facil",
+      "price": 50,
+      "img": "sin imagen",
+      "code": "abc125",
+      "stock": 50
+    },
+    {
+      "id": 4,
+      "title": "piedras para gato",
+      "description": "No expulsan olor",
+      "price": 80,
+      "img": "sin imagen",
+      "code": "abc126",
+      "stock": 150
+    },
+    {
+        "id": 5,
+        "title": "collar para perro",
+        "description": "collar de cuero",
+        "price": 130,
+        "img": "sin imagen",
+        "code": "abc127",
+        "stock": 30
+      },
+      {
+        "id": 6,
+        "title": "shampoo para perro",
+        "description": "hipoalergenico",
+        "price": 50,
+        "img": "sin imagen",
+        "code": "abc128",
+        "stock": 40
+      },
+      {
+        "id": 7,
+        "title": "colchon para perro",
+        "description": "el mejor y mas comodo",
+        "price": 120,
+        "img": "sin imagen",
+        "code": "abc129",
+        "stock": 20
+      },
+      {
+        "id": 8,
+        "title": "almohadon para gato",
+        "description": "el mas calentito",
+        "price": 100,
+        "img": "sin imagen",
+        "code": "abc130",
+        "stock": 15
+      },
+      {
+        "id": 9,
+        "title": "collar para gato",
+        "description": "collar de cuero",
+        "price": 80,
+        "img": "sin imagen",
+        "code": "abc131",
+        "stock": 25
+      },
+      {
+        "id": 10,
+        "title": "correa para perros",
+        "description": "la mas resistente",
+        "price": 75,
+        "img": "sin imagen",
+        "code": "abc132",
+        "stock": 20
+      }
+  ]
